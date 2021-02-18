@@ -23,11 +23,21 @@
       const section = document.querySelector("section");
 
       // let requestURL = "./linkedin.json";
-      let requestURL = 'https://cache1.phantombooster.com/pzuhC3LNq4M/Q2PwRzWTBaSOHZqrIAM4fA/result.json';
       let request = new XMLHttpRequest();
-      request.open("GET", requestURL);
-      request.responseType = "text";
-      request.send();
+      let requestURL = 'https://cache1.phantombooster.com/pzuhC3LNq4M/Q2PwRzWTBaSOHZqrIAM4fA/result.json';
+
+      function callOtherDomain() {
+        if (request) {
+          request.open('GET', requestURL, false);
+          request.withCredentials = false;
+          request.onreadystatechange = handler;
+          request.send();
+        }
+      }
+      callOtherDomain();
+      // request.open("GET", requestURL);
+      // request.responseType = "text";
+      // request.send();
 
       request.onload = function () {
         const superHeroesText = request.response;
