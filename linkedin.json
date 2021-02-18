@@ -1,1040 +1,1041 @@
 [
-    {
-        "general": {
-            "imgUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFKhgQXgQdXHQ/profile-displayphoto-shrink_100_100/0/1597345704748?e=1619049600&v=beta&t=f1nn-RA0k4XsAIgamc9dyk1vf3VoH1VQ_G-RDCMoA04",
-            "fullName": "Juan Camilo Farfan Juanias",
-            "school": "Corporación Universitaria Republicana",
-            "location": "Bogotá, Distrito Capital, Colombia",
-            "connections": "18 contactos",
-            "profileUrl": "https://www.linkedin.com/in/jcamilofarfan/",
-            "connectionsCount": 18,
-            "description": "Contador Publico Especialista en Derecho Laboral y Seguridad Social, he trabajado en diversas compañías en algunas realizando labores contables y en otras no, en las cuales he adquirido diversas habilidades y competencias donde he podido generar y conocer herramientas que facilitan la labor contable.\nSoy Desarrollador Web en Formación, me encanta aprender para mejorar tanto personalmente como profesional.\nMe encanta la Educación y la Tecnología, por tanto he decidido mezclar mi profesión con mis aficiones y las habilidades que he adquirido para enseñar a los demás lo que me hubiera gustado saber cuando inicie.",
-            "connectionsUrl": "https://www.linkedin.com/search/results/people/?facetConnectionOf=%5B%22ACoAACfkLycB6hNZN1KYQBnIOPaYJQFtkgjKubo%22%5D&facetNetwork=%5B%22F%22%2C%22S%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH",
-            "firstName": "Juan Camilo",
-            "lastName": "Farfan Juanias",
-            "headline": "Contador público ",
-            "vmid": "ACoAACfkLycB6hNZN1KYQBnIOPaYJQFtkgjKubo",
-            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAACfkLycB6hNZN1KYQBnIOPaYJQFtkgjKubo,name",
-            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAACfkLycB6hNZN1KYQBnIOPaYJQFtkgjKubo%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
-            "subscribers": 19,
-            "company": "Grupo Logístico Empresarial",
-            "savedImg": "https://phantombuster.s3.amazonaws.com/pzuhC3LNq4M/Q2PwRzWTBaSOHZqrIAM4fA/jcamilofarfan.jpeg",
-            "screenshot": "https://phantombuster.s3.amazonaws.com/pzuhC3LNq4M/Q2PwRzWTBaSOHZqrIAM4fA/screenshot_jcamilofarfan.jpeg",
-            "partialScreenshot": "https://phantombuster.s3.amazonaws.com/pzuhC3LNq4M/Q2PwRzWTBaSOHZqrIAM4fA/partial_screenshot_jcamilofarfan.jpeg"
+{
+    "prueba": "Juan Farfan Prueba",
+    "general": {
+      "imgUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFKhgQXgQdXHQ/profile-displayphoto-shrink_100_100/0/1597345704748?e=1619049600&v=beta&t=f1nn-RA0k4XsAIgamc9dyk1vf3VoH1VQ_G-RDCMoA04",
+      "fullName": "Juan Camilo Farfan Juanias",
+      "school": "Corporación Universitaria Republicana",
+      "location": "Bogotá, Distrito Capital, Colombia",
+      "connections": "18 contactos",
+      "profileUrl": "https://www.linkedin.com/in/jcamilofarfan/",
+      "connectionsCount": 18,
+      "description": "Contador Publico Especialista en Derecho Laboral y Seguridad Social, he trabajado en diversas compañías en algunas realizando labores contables y en otras no, en las cuales he adquirido diversas habilidades y competencias donde he podido generar y conocer herramientas que facilitan la labor contable.\nSoy Desarrollador Web en Formación, me encanta aprender para mejorar tanto personalmente como profesional.\nMe encanta la Educación y la Tecnología, por tanto he decidido mezclar mi profesión con mis aficiones y las habilidades que he adquirido para enseñar a los demás lo que me hubiera gustado saber cuando inicie.",
+      "connectionsUrl": "https://www.linkedin.com/search/results/people/?facetConnectionOf=%5B%22ACoAACfkLycB6hNZN1KYQBnIOPaYJQFtkgjKubo%22%5D&facetNetwork=%5B%22F%22%2C%22S%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH",
+      "firstName": "Juan Camilo",
+      "lastName": "Farfan Juanias",
+      "headline": "Contador público ",
+      "vmid": "ACoAACfkLycB6hNZN1KYQBnIOPaYJQFtkgjKubo",
+      "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAACfkLycB6hNZN1KYQBnIOPaYJQFtkgjKubo,name",
+      "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAACfkLycB6hNZN1KYQBnIOPaYJQFtkgjKubo%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+      "subscribers": 19,
+      "company": "Grupo Logístico Empresarial",
+      "savedImg": "https://phantombuster.s3.amazonaws.com/pzuhC3LNq4M/Q2PwRzWTBaSOHZqrIAM4fA/jcamilofarfan.jpeg",
+      "screenshot": "https://phantombuster.s3.amazonaws.com/pzuhC3LNq4M/Q2PwRzWTBaSOHZqrIAM4fA/screenshot_jcamilofarfan.jpeg",
+      "partialScreenshot": "https://phantombuster.s3.amazonaws.com/pzuhC3LNq4M/Q2PwRzWTBaSOHZqrIAM4fA/partial_screenshot_jcamilofarfan.jpeg"
+    },
+    "jobs": [
+      {
+        "companyName": "Grupo Logístico Empresarial",
+        "companyUrl": "https://www.linkedin.com/search/results/all/?keywords=Grupo%20Log%C3%ADstico%20Empresarial",
+        "jobTitle": "Auxiliar de nóminas",
+        "dateRange": "sept. 2020 – ene. 2021",
+        "location": "Bogotá, Distrito Capital, Colombia",
+        "description": "\"Grupo Logistico empresarial\" es un grupo de empresas que brindan servicios especializados de Gestión Logística y Transporte.\nMe encargo de preparación liquidación y registro de nomina de aproximadamente 250 personas al mes, generación de liquidaciones definitivas de contrato, configuración de sistema contable para causacion de nominas."
+      },
+      {
+        "companyName": "Cabildo Ambika Pijao",
+        "companyUrl": "https://www.linkedin.com/search/results/all/?keywords=Cabildo%20Ambika%20Pijao",
+        "jobTitle": "Desarrollador",
+        "dateRange": "sept. 2020 – dic. 2020",
+        "location": "Colombia",
+        "description": "Me encargue del desarrollo de la aplicación \"Abeki Pijao\" disponible en la Google Store, en el ambiente Unity, la cual contiene historias indígenas pijao de mi comunidad en la cual se resalta la identidad pijao"
+      },
+      {
+        "companyName": "Outsourcing S.A Oficial",
+        "companyUrl": "https://www.linkedin.com/company/outsourcing-s-a-oficial/",
+        "jobTitle": "notificador",
+        "dateRange": "sept. 2019 – sept. 2020",
+        "location": "Bogotá D.C., Colombia",
+        "description": "Me encargaba de notificar a las personas Victimas del conflito armado en Colombia sus resultados ante los procesos adelantados con la UARIV (Unidad para la Atención y Reparación Integral a las Víctimas), asi como la orientacion necesaria para los procesos con la unidad, participacion de campañas de notificacion masiva, generacion y encriptacion de archivos para notificacion via mail y preparacion de notificaciones via correo certificado."
+      },
+      {
+        "companyName": "Bancolombia",
+        "companyUrl": "https://www.linkedin.com/company/bancolombia/",
+        "jobTitle": "Auxiliar de departamento I",
+        "dateRange": "sept. 2018 – mar. 2019",
+        "location": "Bogotá, Bogotá D.C., Colombia",
+        "description": "Me encargaba de liquidar facturas y cuentas de cobro con los impuestos correspondientes de acuerdo a la territorialidad, calidad de contribuyente, entre otros fatores requeridos por la ley de los negocios fiduciarios manejados por el Banco. Administracion y verificacion de RPA (automatización robótica de procesos) encargados de ingresar la informacion de las factureas e impuestos en los sistemas contables que maneja el Banco, asi como la recuperacion de informacion para la presentacion de informes del funcionamientoto de los RPA"
+      },
+      {
+        "companyName": "Famiparaiso",
+        "companyUrl": "https://www.linkedin.com/search/results/all/?keywords=Famiparaiso",
+        "jobTitle": "Auxiliar contable",
+        "dateRange": "ene. 2018 – jun. 2018",
+        "location": "Bogotá, Bogotá D.C., Colombia",
+        "description": "Famiparaiso Era una Ips (a la fecha se encuentra con matricula Cancelada) que prestaba sus servicio de Salud en los municipios de Pereira, Manizales y la Dorada.\nMe encargaba del control contable y financiero de la sede de Manizales, como lo es la legalizacion y control de gastos, preparacion de impuestos municipales y demas obligaciones tributarias como lo es la \"Informacion exogena Municipal\", liquidacion de Nominas y cuentas de cobro de los Profesionales."
+      },
+      {
+        "companyName": "Cabildo Ambika Pijao",
+        "companyUrl": "https://www.linkedin.com/search/results/all/?keywords=Cabildo%20Ambika%20Pijao",
+        "jobTitle": "Gestor Cultural",
+        "dateRange": "abr. 2017 – feb. 2018",
+        "location": "Colombia",
+        "description": "Me encargaba de la sistematización de información, realización de caracterización indígena , dirección de talleres encaminados a la identidad propia del pueblo pijao, realización de convocatorias, toma de evidencia audiovisual y asistencia, organización y depuración de datos"
+      }
+    ],
+    "schools": [],
+    "details": {
+      "linkedinProfile": "https://www.linkedin.com/in/jcamilofarfan",
+      "websites": "github.com/jcamilofarfan",
+      "twitter": "jcamilofarfan",
+      "birthday": "13 de marzo",
+      "phone": "3229423051",
+      "mail": "farfan1976@hotmail.com"
+    },
+    "skills": [
+      {
+        "name": "Conferencias",
+        "endorsements": "0"
+      },
+      {
+        "name": "JavaScript",
+        "endorsements": "0"
+      },
+      {
+        "name": "Nóminas",
+        "endorsements": "0"
+      },
+      {
+        "name": "Administración",
+        "endorsements": "0"
+      },
+      {
+        "name": "Contabilidad",
+        "endorsements": "0"
+      },
+      {
+        "name": "Diseño",
+        "endorsements": "0"
+      },
+      {
+        "name": "Edición de vídeo",
+        "endorsements": "0"
+      },
+      {
+        "name": "Automatización",
+        "endorsements": "0"
+      },
+      {
+        "name": "Desarrollo web",
+        "endorsements": "0"
+      },
+      {
+        "name": "Finanzas",
+        "endorsements": "0"
+      },
+      {
+        "name": "Git",
+        "endorsements": "0"
+      },
+      {
+        "name": "HTML5",
+        "endorsements": "0"
+      },
+      {
+        "name": "Hojas de estilos en cascada (CSS)",
+        "endorsements": "0"
+      },
+      {
+        "name": "Microsoft Office",
+        "endorsements": "0"
+      },
+      {
+        "name": "GitHub",
+        "endorsements": "0"
+      },
+      {
+        "name": "Microsoft Excel",
+        "endorsements": "0"
+      },
+      {
+        "name": "Liderazgo",
+        "endorsements": "0"
+      },
+      {
+        "name": "Gestión",
+        "endorsements": "0"
+      },
+      {
+        "name": "World Office",
+        "endorsements": "0"
+      }
+    ],
+    "allSkills": "Conferencias, JavaScript, Nóminas, Administración, Contabilidad, Diseño, Edición de vídeo, Automatización, Desarrollo web, Finanzas, Git, HTML5, Hojas de estilos en cascada (CSS), Microsoft Office, GitHub, Microsoft Excel, Liderazgo, Gestión, World Office",
+    "interests": {
+      "companies": [
+        {
+          "url": "https://www.linkedin.com/company/pwc/",
+          "name": "PwC",
+          "count": 3339297
         },
-        "jobs": [
-            {
-                "companyName": "Grupo Logístico Empresarial",
-                "companyUrl": "https://www.linkedin.com/search/results/all/?keywords=Grupo%20Log%C3%ADstico%20Empresarial",
-                "jobTitle": "Auxiliar de nóminas",
-                "dateRange": "sept. 2020 – ene. 2021",
-                "location": "Bogotá, Distrito Capital, Colombia",
-                "description": "\"Grupo Logistico empresarial\" es un grupo de empresas que brindan servicios especializados de Gestión Logística y Transporte.\nMe encargo de preparación liquidación y registro de nomina de aproximadamente 250 personas al mes, generación de liquidaciones definitivas de contrato, configuración de sistema contable para causacion de nominas."
-            },
-            {
-                "companyName": "Cabildo Ambika Pijao",
-                "companyUrl": "https://www.linkedin.com/search/results/all/?keywords=Cabildo%20Ambika%20Pijao",
-                "jobTitle": "Desarrollador",
-                "dateRange": "sept. 2020 – dic. 2020",
-                "location": "Colombia",
-                "description": "Me encargue del desarrollo de la aplicación \"Abeki Pijao\" disponible en la Google Store, en el ambiente Unity, la cual contiene historias indígenas pijao de mi comunidad en la cual se resalta la identidad pijao"
-            },
-            {
-                "companyName": "Outsourcing S.A Oficial",
-                "companyUrl": "https://www.linkedin.com/company/outsourcing-s-a-oficial/",
-                "jobTitle": "notificador",
-                "dateRange": "sept. 2019 – sept. 2020",
-                "location": "Bogotá D.C., Colombia",
-                "description": "Me encargaba de notificar a las personas Victimas del conflito armado en Colombia sus resultados ante los procesos adelantados con la UARIV (Unidad para la Atención y Reparación Integral a las Víctimas), asi como la orientacion necesaria para los procesos con la unidad, participacion de campañas de notificacion masiva, generacion y encriptacion de archivos para notificacion via mail y preparacion de notificaciones via correo certificado."
-            },
-            {
-                "companyName": "Bancolombia",
-                "companyUrl": "https://www.linkedin.com/company/bancolombia/",
-                "jobTitle": "Auxiliar de departamento I",
-                "dateRange": "sept. 2018 – mar. 2019",
-                "location": "Bogotá, Bogotá D.C., Colombia",
-                "description": "Me encargaba de liquidar facturas y cuentas de cobro con los impuestos correspondientes de acuerdo a la territorialidad, calidad de contribuyente, entre otros fatores requeridos por la ley de los negocios fiduciarios manejados por el Banco. Administracion y verificacion de RPA (automatización robótica de procesos) encargados de ingresar la informacion de las factureas e impuestos en los sistemas contables que maneja el Banco, asi como la recuperacion de informacion para la presentacion de informes del funcionamientoto de los RPA"
-            },
-            {
-                "companyName": "Famiparaiso",
-                "companyUrl": "https://www.linkedin.com/search/results/all/?keywords=Famiparaiso",
-                "jobTitle": "Auxiliar contable",
-                "dateRange": "ene. 2018 – jun. 2018",
-                "location": "Bogotá, Bogotá D.C., Colombia",
-                "description": "Famiparaiso Era una Ips (a la fecha se encuentra con matricula Cancelada) que prestaba sus servicio de Salud en los municipios de Pereira, Manizales y la Dorada.\nMe encargaba del control contable y financiero de la sede de Manizales, como lo es la legalizacion y control de gastos, preparacion de impuestos municipales y demas obligaciones tributarias como lo es la \"Informacion exogena Municipal\", liquidacion de Nominas y cuentas de cobro de los Profesionales."
-            },
-            {
-                "companyName": "Cabildo Ambika Pijao",
-                "companyUrl": "https://www.linkedin.com/search/results/all/?keywords=Cabildo%20Ambika%20Pijao",
-                "jobTitle": "Gestor Cultural",
-                "dateRange": "abr. 2017 – feb. 2018",
-                "location": "Colombia",
-                "description": "Me encargaba de la sistematización de información, realización de caracterización indígena , dirección de talleres encaminados a la identidad propia del pueblo pijao, realización de convocatorias, toma de evidencia audiovisual y asistencia, organización y depuración de datos"
-            }
-        ],
-        "schools": [],
-        "details": {
-            "linkedinProfile": "https://www.linkedin.com/in/jcamilofarfan",
-            "websites": "github.com/jcamilofarfan",
-            "twitter": "jcamilofarfan",
-            "birthday": "13 de marzo",
-            "phone": "3229423051",
-            "mail": "farfan1976@hotmail.com"
+        {
+          "url": "https://www.linkedin.com/company/ernstandyoung/",
+          "name": "EY",
+          "count": 4854300
         },
-        "skills": [
-            {
-                "name": "Conferencias",
-                "endorsements": "0"
-            },
-            {
-                "name": "JavaScript",
-                "endorsements": "0"
-            },
-            {
-                "name": "Nóminas",
-                "endorsements": "0"
-            },
-            {
-                "name": "Administración",
-                "endorsements": "0"
-            },
-            {
-                "name": "Contabilidad",
-                "endorsements": "0"
-            },
-            {
-                "name": "Diseño",
-                "endorsements": "0"
-            },
-            {
-                "name": "Edición de vídeo",
-                "endorsements": "0"
-            },
-            {
-                "name": "Automatización",
-                "endorsements": "0"
-            },
-            {
-                "name": "Desarrollo web",
-                "endorsements": "0"
-            },
-            {
-                "name": "Finanzas",
-                "endorsements": "0"
-            },
-            {
-                "name": "Git",
-                "endorsements": "0"
-            },
-            {
-                "name": "HTML5",
-                "endorsements": "0"
-            },
-            {
-                "name": "Hojas de estilos en cascada (CSS)",
-                "endorsements": "0"
-            },
-            {
-                "name": "Microsoft Office",
-                "endorsements": "0"
-            },
-            {
-                "name": "GitHub",
-                "endorsements": "0"
-            },
-            {
-                "name": "Microsoft Excel",
-                "endorsements": "0"
-            },
-            {
-                "name": "Liderazgo",
-                "endorsements": "0"
-            },
-            {
-                "name": "Gestión",
-                "endorsements": "0"
-            },
-            {
-                "name": "World Office",
-                "endorsements": "0"
-            }
-        ],
-        "allSkills": "Conferencias, JavaScript, Nóminas, Administración, Contabilidad, Diseño, Edición de vídeo, Automatización, Desarrollo web, Finanzas, Git, HTML5, Hojas de estilos en cascada (CSS), Microsoft Office, GitHub, Microsoft Excel, Liderazgo, Gestión, World Office",
-        "interests": {
-            "companies": [
-                {
-                    "url": "https://www.linkedin.com/company/pwc/",
-                    "name": "PwC",
-                    "count": 3339297
-                },
-                {
-                    "url": "https://www.linkedin.com/company/ernstandyoung/",
-                    "name": "EY",
-                    "count": 4854300
-                },
-                {
-                    "url": "https://www.linkedin.com/company/sony-pictures-entertainment/",
-                    "name": "Sony Pictures Entertainment",
-                    "count": 974987
-                },
-                {
-                    "url": "https://www.linkedin.com/company/nestle-s-a-/",
-                    "name": "Nestlé",
-                    "count": 11330904
-                },
-                {
-                    "url": "https://www.linkedin.com/company/saint-gobain/",
-                    "name": "Saint-Gobain",
-                    "count": 484366
-                },
-                {
-                    "url": "https://www.linkedin.com/company/sitel/",
-                    "name": "Sitel",
-                    "count": 200647
-                },
-                {
-                    "url": "https://www.linkedin.com/company/indra/",
-                    "name": "Indra",
-                    "count": 584391
-                },
-                {
-                    "url": "https://www.linkedin.com/company/anixter/",
-                    "name": "Anixter",
-                    "count": 99996
-                },
-                {
-                    "url": "https://www.linkedin.com/company/teleperformance/",
-                    "name": "Teleperformance",
-                    "count": 976457
-                },
-                {
-                    "url": "https://www.linkedin.com/company/sutherland-global/",
-                    "name": "Sutherland",
-                    "count": 311388
-                },
-                {
-                    "url": "https://www.linkedin.com/company/globant/",
-                    "name": "Globant",
-                    "count": 302721
-                },
-                {
-                    "url": "https://www.linkedin.com/company/realpage/",
-                    "name": "RealPage, Inc.",
-                    "count": 155548
-                },
-                {
-                    "url": "https://www.linkedin.com/company/management-solutions/",
-                    "name": "Management Solutions",
-                    "count": 100591
-                },
-                {
-                    "url": "https://www.linkedin.com/company/universidad-de-los-andes/",
-                    "name": "Universidad de los Andes - Colombia",
-                    "count": 298647
-                },
-                {
-                    "url": "https://www.linkedin.com/company/mercadolibre/",
-                    "name": "Mercado Libre",
-                    "count": 609099
-                },
-                {
-                    "url": "https://www.linkedin.com/company/mediapro/",
-                    "name": "Grupo Mediapro",
-                    "count": 93495
-                },
-                {
-                    "url": "https://www.linkedin.com/company/falabella-/",
-                    "name": "Falabella Retail S.A",
-                    "count": 382784
-                },
-                {
-                    "url": "https://www.linkedin.com/company/bancolombia/",
-                    "name": "Bancolombia",
-                    "count": 465617
-                },
-                {
-                    "url": "https://www.linkedin.com/company/ecopetroloficial/",
-                    "name": "Ecopetrol",
-                    "count": 644055
-                },
-                {
-                    "url": "https://www.linkedin.com/company/bancorepublica/",
-                    "name": "Banco de la República - Colombia",
-                    "count": 208775
-                },
-                {
-                    "url": "https://www.linkedin.com/company/alpina/",
-                    "name": "Alpina",
-                    "count": 521106
-                },
-                {
-                    "url": "https://www.linkedin.com/company/todo1-services/",
-                    "name": "TODO1 Services Inc.",
-                    "count": 10878
-                },
-                {
-                    "url": "https://www.linkedin.com/company/banco-de-occidente/",
-                    "name": "Banco de Occidente",
-                    "count": 111866
-                },
-                {
-                    "url": "https://www.linkedin.com/company/ean/",
-                    "name": "Universidad EAN",
-                    "count": 65974
-                },
-                {
-                    "url": "https://www.linkedin.com/company/jalasoft/",
-                    "name": "Jalasoft",
-                    "count": 10482
-                },
-                {
-                    "url": "https://www.linkedin.com/company/infotrans-caribbean-n-v-/",
-                    "name": "Infotrans Caribbean N.V.",
-                    "count": 2776
-                },
-                {
-                    "url": "https://www.linkedin.com/company/aranda-software-corp/",
-                    "name": "Aranda SOFTWARE",
-                    "count": 28395
-                },
-                {
-                    "url": "https://www.linkedin.com/company/seguros-bolivar/",
-                    "name": "Seguros Bolívar S.A.",
-                    "count": 104021
-                },
-                {
-                    "url": "https://www.linkedin.com/company/terpel/",
-                    "name": "Organización Terpel S.A.",
-                    "count": 144067
-                },
-                {
-                    "url": "https://www.linkedin.com/company/ariadna/",
-                    "name": "Ariadna Communications Group",
-                    "count": 37607
-                },
-                {
-                    "url": "https://www.linkedin.com/company/zemoga-inc/",
-                    "name": "Zemoga, Inc.",
-                    "count": 22488
-                },
-                {
-                    "url": "https://www.linkedin.com/company/team-international/",
-                    "name": "TEAM International",
-                    "count": 13214
-                },
-                {
-                    "url": "https://www.linkedin.com/company/pslcorp/",
-                    "name": "PSL Corp - Now part of Perficient",
-                    "count": 19782
-                },
-                {
-                    "url": "https://www.linkedin.com/company/actualicese/",
-                    "name": "actualicese.com",
-                    "count": 20552
-                },
-                {
-                    "url": "https://www.linkedin.com/company/universidad-externado-de-colombia/",
-                    "name": "Universidad Externado de Colombia",
-                    "count": 114777
-                },
-                {
-                    "url": "https://www.linkedin.com/company/stt-group/",
-                    "name": "GRUPO STT",
-                    "count": 20253
-                },
-                {
-                    "url": "https://www.linkedin.com/company/davivienda/",
-                    "name": "Banco Davivienda",
-                    "count": 217723
-                },
-                {
-                    "url": "https://www.linkedin.com/company/banco-av-villas/",
-                    "name": "Banco AV Villas",
-                    "count": 34323
-                },
-                {
-                    "url": "https://www.linkedin.com/company/consultoria-organizacional/",
-                    "name": "Consultoría Organizacional",
-                    "count": 5647
-                },
-                {
-                    "url": "https://www.linkedin.com/company/postobon-s.a./",
-                    "name": "POSTOBON S.A.",
-                    "count": 376887
-                },
-                {
-                    "url": "https://www.linkedin.com/company/rcn-tv/",
-                    "name": "RCN TV",
-                    "count": 36859
-                },
-                {
-                    "url": "https://www.linkedin.com/company/sql-software/",
-                    "name": "SQL Software",
-                    "count": 2567
-                },
-                {
-                    "url": "https://www.linkedin.com/company/softwareguru/",
-                    "name": "Software Guru",
-                    "count": 7785
-                },
-                {
-                    "url": "https://www.linkedin.com/company/mancuso-media-llc/",
-                    "name": "Mancuso Media, LLC",
-                    "count": 1094
-                },
-                {
-                    "url": "https://www.linkedin.com/company/proteccionsa/",
-                    "name": "PROTECCIÓN S.A.",
-                    "count": 115592
-                },
-                {
-                    "url": "https://www.linkedin.com/company/koombea/",
-                    "name": "Koombea",
-                    "count": 6488
-                },
-                {
-                    "url": "https://www.linkedin.com/company/acltecnologia/",
-                    "name": "ACL Tecnología",
-                    "count": 6553
-                },
-                {
-                    "url": "https://www.linkedin.com/company/ministerio-de-tecnolog-as-de-la-informaci-n-y-las-comunicaciones/",
-                    "name": "Ministerio de Tecnologías de la Información y las Comunicaciones",
-                    "count": 91594
-                },
-                {
-                    "url": "https://www.linkedin.com/company/bbva-colombia/",
-                    "name": "BBVA en Colombia",
-                    "count": 134795
-                },
-                {
-                    "url": "https://www.linkedin.com/company/porvenir/",
-                    "name": "Porvenir Pensiones y Cesantías",
-                    "count": 143264
-                },
-                {
-                    "url": "https://www.linkedin.com/company/banco-de-bogota/",
-                    "name": "Banco de Bogotá",
-                    "count": 188648
-                },
-                {
-                    "url": "https://www.linkedin.com/company/icfes/",
-                    "name": "Instituto Colombiano para la Evaluación de la Educación (ICFES)",
-                    "count": 13316
-                },
-                {
-                    "url": "https://www.linkedin.com/company/brahma-footwear/",
-                    "name": "Stanton S.A.S.",
-                    "count": 1188
-                },
-                {
-                    "url": "https://www.linkedin.com/company/banco-finandina/",
-                    "name": "Banco Finandina",
-                    "count": 23231
-                },
-                {
-                    "url": "https://www.linkedin.com/company/sodimac-colombia-homecenter/",
-                    "name": "Sodimac Colombia",
-                    "count": 133529
-                },
-                {
-                    "url": "https://www.linkedin.com/company/grupobancolombia/",
-                    "name": "Grupo Bancolombia",
-                    "count": 34077
-                },
-                {
-                    "url": "https://www.linkedin.com/company/cognox/",
-                    "name": "Cognox",
-                    "count": 2959
-                },
-                {
-                    "url": "https://www.linkedin.com/company/quala-s-a-/",
-                    "name": "Quala S.A.",
-                    "count": 390795
-                },
-                {
-                    "url": "https://www.linkedin.com/company/fware/",
-                    "name": "FirmWare - Tecnología Simple",
-                    "count": 898
-                },
-                {
-                    "url": "https://www.linkedin.com/company/novasoft-sas/",
-                    "name": "Novasoft SAS",
-                    "count": 1591
-                },
-                {
-                    "url": "https://www.linkedin.com/company/ideaware-co/",
-                    "name": "Ideaware",
-                    "count": 2795
-                },
-                {
-                    "url": "https://www.linkedin.com/company/sinnetic/",
-                    "name": "SINNETIC",
-                    "count": 4233
-                },
-                {
-                    "url": "https://www.linkedin.com/company/talos-digital-inc-/",
-                    "name": "Talos Digital",
-                    "count": 5436
-                },
-                {
-                    "url": "https://www.linkedin.com/company/redsis-/",
-                    "name": "Redsis - Redes y Sistemas Integrados",
-                    "count": 1427
-                },
-                {
-                    "url": "https://www.linkedin.com/company/elempleo/",
-                    "name": "elempleo",
-                    "count": 563793
-                },
-                {
-                    "url": "https://www.linkedin.com/company/edteamlat/",
-                    "name": "EDteam",
-                    "count": 32683
-                },
-                {
-                    "url": "https://www.linkedin.com/company/ximple-human-resources/",
-                    "name": "Ximple Human Resources",
-                    "count": 3032
-                },
-                {
-                    "url": "https://www.linkedin.com/company/platzi-inc/",
-                    "name": "Platzi",
-                    "count": 68465
-                },
-                {
-                    "url": "https://www.linkedin.com/company/metro-operaci-n-inmobiliaria/",
-                    "name": "METRO Hotels",
-                    "count": 620
-                },
-                {
-                    "url": "https://www.linkedin.com/company/beitech-sas/",
-                    "name": "Beitech SAS",
-                    "count": 611
-                },
-                {
-                    "url": "https://www.linkedin.com/company/soluntech-sas/",
-                    "name": "SOLUNTECH",
-                    "count": 711
-                },
-                {
-                    "url": "https://www.linkedin.com/company/bavaria-/",
-                    "name": "Bavaria - Colombia",
-                    "count": 498143
-                },
-                {
-                    "url": "https://www.linkedin.com/company/compensar/",
-                    "name": "Compensar",
-                    "count": 146923
-                },
-                {
-                    "url": "https://www.linkedin.com/company/outsourcing-s-a-oficial/",
-                    "name": "Outsourcing S.A Oficial",
-                    "count": 2686
-                },
-                {
-                    "url": "https://www.linkedin.com/company/next-university-inc-/",
-                    "name": "Next U, Inc",
-                    "count": 7961
-                },
-                {
-                    "url": "https://www.linkedin.com/company/esg-industriales-s-a-s-/",
-                    "name": "ESG Industriales S.A.S.",
-                    "count": 3326
-                },
-                {
-                    "url": "https://www.linkedin.com/company/instituto-nacional-de-contadores-p%C3%BAblicos/",
-                    "name": "Instituto Nacional de Contadores Públicos",
-                    "count": 11075
-                },
-                {
-                    "url": "https://www.linkedin.com/company/banco-falabella-colombia/",
-                    "name": "Banco Falabella Colombia",
-                    "count": 47478
-                },
-                {
-                    "url": "https://www.linkedin.com/company/pulzo/",
-                    "name": "Pulzo",
-                    "count": 10794
-                },
-                {
-                    "url": "https://www.linkedin.com/company/aprendeinstitute/",
-                    "name": "Aprende Institute",
-                    "count": 25995
-                },
-                {
-                    "url": "https://www.linkedin.com/company/anka/",
-                    "name": "Grupo ANKA",
-                    "count": 632
-                },
-                {
-                    "url": "https://www.linkedin.com/company/pwc-colombia/",
-                    "name": "PwC Colombia",
-                    "count": 46128
-                },
-                {
-                    "url": "https://www.linkedin.com/company/acer%C3%ADas-paz-del-rio/",
-                    "name": "PazdelRio",
-                    "count": 20912
-                },
-                {
-                    "url": "https://www.linkedin.com/company/nutresa/",
-                    "name": "Talento Nutresa",
-                    "count": 472538
-                },
-                {
-                    "url": "https://www.linkedin.com/company/sutex-s-a-s/",
-                    "name": "Sutex S.A.S",
-                    "count": 3868
-                },
-                {
-                    "url": "https://www.linkedin.com/company/computrabajo/",
-                    "name": "CompuTrabajo",
-                    "count": 386254
-                },
-                {
-                    "url": "https://www.linkedin.com/company/rehimac-s-a/",
-                    "name": "REHIMAC S.A",
-                    "count": 33
-                },
-                {
-                    "url": "https://www.linkedin.com/company/itau-colombia/",
-                    "name": "Itaú Colombia",
-                    "count": 151349
-                },
-                {
-                    "url": "https://www.linkedin.com/company/kpmg_colombia/",
-                    "name": "KPMG en Colombia",
-                    "count": 57851
-                },
-                {
-                    "url": "https://www.linkedin.com/company/mi-group-co/",
-                    "name": "MI Group",
-                    "count": 266
-                },
-                {
-                    "url": "https://www.linkedin.com/company/constructora-habitat-de-los-andes/",
-                    "name": "Constructora Hábitat de los Andes",
-                    "count": 3424
-                },
-                {
-                    "url": "https://www.linkedin.com/company/krypto-outsourcing-contable-y-financiero/",
-                    "name": "KRYPTO Outsourcing Contable y Financiero",
-                    "count": 116
-                },
-                {
-                    "url": "https://www.linkedin.com/company/alphacredit-mexico/",
-                    "name": "AlphaCredit",
-                    "count": 21803
-                },
-                {
-                    "url": "https://www.linkedin.com/company/fiducoldex-s.a./",
-                    "name": "Fiducoldex S.A.",
-                    "count": 8965
-                },
-                {
-                    "url": "https://www.linkedin.com/company/tita-media/",
-                    "name": "Tita Media",
-                    "count": 2275
-                },
-                {
-                    "url": "https://www.linkedin.com/company/plesk/",
-                    "name": "Plesk",
-                    "count": 10981
-                },
-                {
-                    "url": "https://www.linkedin.com/company/biz-latin-hub-group/",
-                    "name": "Biz Latin Hub",
-                    "count": 10973
-                },
-                {
-                    "url": "https://www.linkedin.com/company/logaligroup/",
-                    "name": "Logali Group",
-                    "count": 3111
-                },
-                {
-                    "url": "https://www.linkedin.com/company/revista-dinero/",
-                    "name": "Revista Dinero",
-                    "count": 296260
-                },
-                {
-                    "url": "https://www.linkedin.com/company/smartquick/",
-                    "name": "SmartQuick",
-                    "count": 635
-                },
-                {
-                    "url": "https://www.linkedin.com/company/manpowergroup-colombia/",
-                    "name": "ManpowerGroup Colombia",
-                    "count": 137387
-                },
-                {
-                    "url": "https://www.linkedin.com/company/merqueo/",
-                    "name": "Merqueo",
-                    "count": 27482
-                },
-                {
-                    "url": "https://www.linkedin.com/company/smart-choice-group-s.a.s./",
-                    "name": "Smart Choice Group S.A.S.",
-                    "count": 980
-                },
-                {
-                    "url": "https://www.linkedin.com/company/digital-link-marketing/",
-                    "name": "Digital Link Marketing S.L.",
-                    "count": 28302
-                },
-                {
-                    "url": "https://www.linkedin.com/company/impresistemsas/",
-                    "name": "IMPRESISTEM SAS",
-                    "count": 4247
-                },
-                {
-                    "url": "https://www.linkedin.com/company/100grados/",
-                    "name": "100 Grados",
-                    "count": 220
-                },
-                {
-                    "url": "https://www.linkedin.com/company/lezagsuperbeauty/",
-                    "name": "Lezag - Superbeauty",
-                    "count": 342
-                },
-                {
-                    "url": "https://www.linkedin.com/company/etex-colombia/",
-                    "name": "Etex Colombia",
-                    "count": 4577
-                },
-                {
-                    "url": "https://www.linkedin.com/company/telcos-ingenieria/",
-                    "name": "TELCOS Ingeniería",
-                    "count": 811
-                },
-                {
-                    "url": "https://www.linkedin.com/company/scotiabankcolpatria/",
-                    "name": "Scotiabank Colpatria",
-                    "count": 86341
-                },
-                {
-                    "url": "https://www.linkedin.com/company/protectores-armadillo/",
-                    "name": "Protectores Armadillo SAS",
-                    "count": 115
-                },
-                {
-                    "url": "https://www.linkedin.com/company/praxispharmaceutical/",
-                    "name": "Praxis Pharmaceutical",
-                    "count": 1183
-                },
-                {
-                    "url": "https://www.linkedin.com/company/gce-global-solutions/",
-                    "name": "GCE Global Solutions",
-                    "count": 129
-                },
-                {
-                    "url": "https://www.linkedin.com/company/praxedes-midasoft-group/",
-                    "name": "Praxedes Midasoft Group",
-                    "count": 115
-                },
-                {
-                    "url": "https://www.linkedin.com/company/turismolab/",
-                    "name": "Turismo Lab",
-                    "count": 1402
-                },
-                {
-                    "url": "https://www.linkedin.com/company/corporaci%C3%B3n-universitaria-republicana/",
-                    "name": "Corporación Universitaria Republicana",
-                    "count": 3354
-                },
-                {
-                    "url": "https://www.linkedin.com/company/servicio-nacional-de-aprendizaje-sena-/",
-                    "name": "Servicio Nacional de Aprendizaje (SENA)",
-                    "count": 481882
-                },
-                {
-                    "url": "https://www.linkedin.com/company/credibanco/",
-                    "name": "CredibanCo",
-                    "count": 26621
-                },
-                {
-                    "url": "https://www.linkedin.com/company/campos-saab/",
-                    "name": "Campos Saab",
-                    "count": 335
-                },
-                {
-                    "url": "https://www.linkedin.com/company/roamcapital/",
-                    "name": "ROAM Capital",
-                    "count": 618
-                },
-                {
-                    "url": "https://www.linkedin.com/company/starmeup/",
-                    "name": "StarMeUp",
-                    "count": 7485
-                },
-                {
-                    "url": "https://www.linkedin.com/company/joyer%C3%ADa-glauser---tsq-s.a./",
-                    "name": "Joyería Glauser - TSQ S.A.",
-                    "count": 185
-                },
-                {
-                    "url": "https://www.linkedin.com/company/renderout/",
-                    "name": "Renderout!",
-                    "count": 1943
-                },
-                {
-                    "url": "https://www.linkedin.com/company/ciemco/",
-                    "name": "CIEMCO",
-                    "count": 72
-                },
-                {
-                    "url": "https://www.linkedin.com/company/nutrabiotics-sas/",
-                    "name": "NUTRABIOTICS S.A.S",
-                    "count": 544
-                },
-                {
-                    "url": "https://www.linkedin.com/company/bydrec/",
-                    "name": "Bydrec, Inc.",
-                    "count": 2258
-                },
-                {
-                    "url": "https://www.linkedin.com/company/libelstudios/",
-                    "name": "LIBEL ACADEMY",
-                    "count": 316
-                },
-                {
-                    "url": "https://www.linkedin.com/company/casagres/",
-                    "name": "Casa Gres",
-                    "count": 124
-                },
-                {
-                    "url": "https://www.linkedin.com/company/masivian/",
-                    "name": "Masiv",
-                    "count": 25496
-                },
-                {
-                    "url": "https://www.linkedin.com/company/marketing-tools-agency/",
-                    "name": "Marketing Tools Agency",
-                    "count": 526
-                },
-                {
-                    "url": "https://www.linkedin.com/company/banco-caja-social/",
-                    "name": "Banco Caja Social",
-                    "count": 55523
-                },
-                {
-                    "url": "https://www.linkedin.com/company/chepeypepe/",
-                    "name": "Chepe & Pepe",
-                    "count": 254
-                },
-                {
-                    "url": "https://www.linkedin.com/company/arkdia/",
-                    "name": "arKdia",
-                    "count": 150
-                },
-                {
-                    "url": "https://www.linkedin.com/company/the-frenchie-co/",
-                    "name": "The Frenchie Co",
-                    "count": 464
-                },
-                {
-                    "url": "https://www.linkedin.com/company/bioecologica/",
-                    "name": "Bioecologica",
-                    "count": 78
-                },
-                {
-                    "url": "https://www.linkedin.com/company/activalonatural/",
-                    "name": "Activa lo Natural",
-                    "count": 74
-                },
-                {
-                    "url": "https://www.linkedin.com/company/appspring-technologies/",
-                    "name": "Appspring Technologies",
-                    "count": 839
-                },
-                {
-                    "url": "https://www.linkedin.com/company/gestor-sas/",
-                    "name": "Gestor SAS",
-                    "count": 934
-                },
-                {
-                    "url": "https://www.linkedin.com/company/ravencloudscanner/",
-                    "name": "Raven",
-                    "count": 1219
-                },
-                {
-                    "url": "https://www.linkedin.com/company/summar-productividad/",
-                    "name": "Summar Productividad",
-                    "count": 1280
-                },
-                {
-                    "url": "https://www.linkedin.com/company/russellbedfordgct/",
-                    "name": "Russell Bedford GCT",
-                    "count": 1589
-                },
-                {
-                    "url": "https://www.linkedin.com/company/dcm-ingenieros-consultores/",
-                    "name": "DCM INGENIEROS CONSULTORES",
-                    "count": 16
-                },
-                {
-                    "url": "https://www.linkedin.com/company/vemesco/",
-                    "name": "Vemesco",
-                    "count": 141
-                },
-                {
-                    "url": "https://www.linkedin.com/company/clinica-retornar/",
-                    "name": "Clinica Retornar",
-                    "count": 178
-                },
-                {
-                    "url": "https://www.linkedin.com/company/centurebv/",
-                    "name": "Centure",
-                    "count": 32
-                },
-                {
-                    "url": "https://www.linkedin.com/company/funeraria-san-juan-bautista/",
-                    "name": "Funeraria San Juan Bautista",
-                    "count": 51
-                },
-                {
-                    "url": "https://www.linkedin.com/company/grupolyown/",
-                    "name": "Grupo Lyown",
-                    "count": 474
-                }
-            ],
-            "schools": [
-                {
-                    "url": "https://www.linkedin.com/school/11601/?legacySchoolId=11601",
-                    "name": "Universidad Externado de Colombia",
-                    "count": 114777
-                },
-                {
-                    "url": "https://www.linkedin.com/school/542170/?legacySchoolId=542170",
-                    "name": "Turismo Lab",
-                    "count": 1402
-                },
-                {
-                    "url": "https://www.linkedin.com/school/11509/?legacySchoolId=11509",
-                    "name": "Universidad EAN",
-                    "count": 65974
-                },
-                {
-                    "url": "https://www.linkedin.com/school/196010/?legacySchoolId=196010",
-                    "name": "Servicio Nacional de Aprendizaje (SENA)",
-                    "count": 481883
-                },
-                {
-                    "url": "https://www.linkedin.com/school/224969/?legacySchoolId=224969",
-                    "name": "Platzi",
-                    "count": 68465
-                },
-                {
-                    "url": "https://www.linkedin.com/school/11507/?legacySchoolId=11507",
-                    "name": "Corporación Universitaria Republicana",
-                    "count": 3354
-                },
-                {
-                    "url": "https://www.linkedin.com/school/11581/?legacySchoolId=11581",
-                    "name": "Universidad de los Andes - Colombia",
-                    "count": 298648
-                }
-            ]
+        {
+          "url": "https://www.linkedin.com/company/sony-pictures-entertainment/",
+          "name": "Sony Pictures Entertainment",
+          "count": 974987
         },
-        "recommandations": {
-            "receivedRecommandations": [],
-            "givenRecommandations": []
+        {
+          "url": "https://www.linkedin.com/company/nestle-s-a-/",
+          "name": "Nestlé",
+          "count": 11330904
         },
-        "licences": [
-            {
-                "name": "Curso de Asincronismo con JavaScript",
-                "link": "https://www.linkedin.com/company/platzi-inc/",
-                "credentialUrl": "https://platzi.com/p/jcamilofarfan/curso/1789-asincronismo-js/diploma/detalle/"
-            },
-            {
-                "name": "Curso de ECMAScript 6",
-                "link": "https://www.linkedin.com/company/platzi-inc/",
-                "credentialUrl": "https://platzi.com/p/jcamilofarfan/curso/1815-ecmascript-6/diploma/detalle/"
-            },
-            {
-                "name": "Fundamentos de JavaScript",
-                "link": "https://www.linkedin.com/company/platzi-inc/",
-                "credentialUrl": "https://platzi.com/p/jcamilofarfan/curso/1339-fundamentos-javascript/diploma/detalle/"
-            },
-            {
-                "name": "Curso Básico de JavaScript",
-                "link": "https://www.linkedin.com/company/platzi-inc/",
-                "credentialUrl": "https://platzi.com/p/jcamilofarfan/curso/1814-basico-javascript/diploma/detalle/"
-            },
-            {
-                "name": "Curso de Frontend Developer",
-                "link": "https://www.linkedin.com/company/platzi-inc/",
-                "credentialUrl": "https://platzi.com/p/jcamilofarfan/curso/1640-frontend-developer/diploma/detalle/"
-            },
-            {
-                "name": "Curso de Prework: Buenas Prácticas y Entorno de Desarrollo en macOS",
-                "link": "https://www.linkedin.com/company/platzi-inc/",
-                "credentialUrl": "https://platzi.com/p/jcamilofarfan/curso/1650-prework/diploma/detalle/"
-            },
-            {
-                "name": "Curso de Prework: Configuración de Entorno de Desarrollo en Windows",
-                "link": "https://www.linkedin.com/company/platzi-inc/",
-                "credentialUrl": "https://platzi.com/p/jcamilofarfan/curso/2042-prework-windows/diploma/detalle/"
-            },
-            {
-                "name": "Curso Profesional de Git y GitHub",
-                "link": "https://www.linkedin.com/company/platzi-inc/",
-                "credentialUrl": "https://platzi.com/@jcamilofarfan/curso/1557-git-github/diploma/detalle/"
-            },
-            {
-                "name": "Curso de Marca Personal",
-                "link": "https://www.linkedin.com/company/platzi-inc/",
-                "credentialUrl": "https://platzi.com/@jcamilofarfan/curso/1220-marca-personal/diploma/detalle/"
-            },
-            {
-                "name": "Curso de Finanzas para Startups",
-                "link": "https://www.linkedin.com/company/platzi-inc/",
-                "credentialUrl": "https://platzi.com/@camilofarfan/curso/1325-course/diploma/detalle/"
-            },
-            {
-                "name": "Curso de Programación Básica",
-                "link": "https://www.linkedin.com/company/platzi-inc/",
-                "credentialUrl": "https://platzi.com/@jcamilofarfan/curso/1050-programacion-basica/diploma/detalle/"
-            },
-            {
-                "name": "Taller de creación de Startups 2019",
-                "link": "https://www.linkedin.com/company/platzi-inc/",
-                "credentialUrl": "https://platzi.com/@camilofarfan/curso/49-taller-startups-2018/diploma/detalle/"
-            },
-            {
-                "name": "Administración Estratégica",
-                "link": "https://www.linkedin.com/company/next-university-inc-/",
-                "credentialUrl": "https://www.credential.net/d88e2649-b939-4852-abff-84651ef27169"
-            },
-            {
-                "name": "Desarrollo Web",
-                "link": "https://www.linkedin.com/company/next-university-inc-/",
-                "credentialUrl": "https://www.credential.net/68f63731-cd86-4fac-9952-9d175551a054"
-            },
-            {
-                "name": "Fundamentos de Administración",
-                "link": "https://www.linkedin.com/company/next-university-inc-/",
-                "credentialUrl": "https://www.credential.net/urvx8skd"
-            },
-            {
-                "name": "Liderazgo Empresarial",
-                "link": "https://www.linkedin.com/company/next-university-inc-/",
-                "credentialUrl": "https://www.credential.net/sfjn0tpe"
-            },
-            {
-                "name": "Soporte y Mantenimiento Técnico",
-                "link": "https://www.linkedin.com/company/next-university-inc-/",
-                "credentialUrl": "https://www.credential.net/q8xb33xc"
-            }
-        ],
-        "dropcontact": {
-            "company": "Grupo Logístico Empresarial",
-            "full_name": "Farfan Juanias Juan Camilo",
-            "last_name": "Farfan Juanias Juan Camilo",
-            "phone": "+57 310 3345396",
-            "website": "www.grupologisticoempresarial.com"
+        {
+          "url": "https://www.linkedin.com/company/saint-gobain/",
+          "name": "Saint-Gobain",
+          "count": 484366
         },
-        "query": "https://www.linkedin.com/in/jcamilofarfan/",
-        "timestamp": "2021-02-16T23:04:52.135Z"
-    }
+        {
+          "url": "https://www.linkedin.com/company/sitel/",
+          "name": "Sitel",
+          "count": 200647
+        },
+        {
+          "url": "https://www.linkedin.com/company/indra/",
+          "name": "Indra",
+          "count": 584391
+        },
+        {
+          "url": "https://www.linkedin.com/company/anixter/",
+          "name": "Anixter",
+          "count": 99996
+        },
+        {
+          "url": "https://www.linkedin.com/company/teleperformance/",
+          "name": "Teleperformance",
+          "count": 976457
+        },
+        {
+          "url": "https://www.linkedin.com/company/sutherland-global/",
+          "name": "Sutherland",
+          "count": 311388
+        },
+        {
+          "url": "https://www.linkedin.com/company/globant/",
+          "name": "Globant",
+          "count": 302721
+        },
+        {
+          "url": "https://www.linkedin.com/company/realpage/",
+          "name": "RealPage, Inc.",
+          "count": 155548
+        },
+        {
+          "url": "https://www.linkedin.com/company/management-solutions/",
+          "name": "Management Solutions",
+          "count": 100591
+        },
+        {
+          "url": "https://www.linkedin.com/company/universidad-de-los-andes/",
+          "name": "Universidad de los Andes - Colombia",
+          "count": 298647
+        },
+        {
+          "url": "https://www.linkedin.com/company/mercadolibre/",
+          "name": "Mercado Libre",
+          "count": 609099
+        },
+        {
+          "url": "https://www.linkedin.com/company/mediapro/",
+          "name": "Grupo Mediapro",
+          "count": 93495
+        },
+        {
+          "url": "https://www.linkedin.com/company/falabella-/",
+          "name": "Falabella Retail S.A",
+          "count": 382784
+        },
+        {
+          "url": "https://www.linkedin.com/company/bancolombia/",
+          "name": "Bancolombia",
+          "count": 465617
+        },
+        {
+          "url": "https://www.linkedin.com/company/ecopetroloficial/",
+          "name": "Ecopetrol",
+          "count": 644055
+        },
+        {
+          "url": "https://www.linkedin.com/company/bancorepublica/",
+          "name": "Banco de la República - Colombia",
+          "count": 208775
+        },
+        {
+          "url": "https://www.linkedin.com/company/alpina/",
+          "name": "Alpina",
+          "count": 521106
+        },
+        {
+          "url": "https://www.linkedin.com/company/todo1-services/",
+          "name": "TODO1 Services Inc.",
+          "count": 10878
+        },
+        {
+          "url": "https://www.linkedin.com/company/banco-de-occidente/",
+          "name": "Banco de Occidente",
+          "count": 111866
+        },
+        {
+          "url": "https://www.linkedin.com/company/ean/",
+          "name": "Universidad EAN",
+          "count": 65974
+        },
+        {
+          "url": "https://www.linkedin.com/company/jalasoft/",
+          "name": "Jalasoft",
+          "count": 10482
+        },
+        {
+          "url": "https://www.linkedin.com/company/infotrans-caribbean-n-v-/",
+          "name": "Infotrans Caribbean N.V.",
+          "count": 2776
+        },
+        {
+          "url": "https://www.linkedin.com/company/aranda-software-corp/",
+          "name": "Aranda SOFTWARE",
+          "count": 28395
+        },
+        {
+          "url": "https://www.linkedin.com/company/seguros-bolivar/",
+          "name": "Seguros Bolívar S.A.",
+          "count": 104021
+        },
+        {
+          "url": "https://www.linkedin.com/company/terpel/",
+          "name": "Organización Terpel S.A.",
+          "count": 144067
+        },
+        {
+          "url": "https://www.linkedin.com/company/ariadna/",
+          "name": "Ariadna Communications Group",
+          "count": 37607
+        },
+        {
+          "url": "https://www.linkedin.com/company/zemoga-inc/",
+          "name": "Zemoga, Inc.",
+          "count": 22488
+        },
+        {
+          "url": "https://www.linkedin.com/company/team-international/",
+          "name": "TEAM International",
+          "count": 13214
+        },
+        {
+          "url": "https://www.linkedin.com/company/pslcorp/",
+          "name": "PSL Corp - Now part of Perficient",
+          "count": 19782
+        },
+        {
+          "url": "https://www.linkedin.com/company/actualicese/",
+          "name": "actualicese.com",
+          "count": 20552
+        },
+        {
+          "url": "https://www.linkedin.com/company/universidad-externado-de-colombia/",
+          "name": "Universidad Externado de Colombia",
+          "count": 114777
+        },
+        {
+          "url": "https://www.linkedin.com/company/stt-group/",
+          "name": "GRUPO STT",
+          "count": 20253
+        },
+        {
+          "url": "https://www.linkedin.com/company/davivienda/",
+          "name": "Banco Davivienda",
+          "count": 217723
+        },
+        {
+          "url": "https://www.linkedin.com/company/banco-av-villas/",
+          "name": "Banco AV Villas",
+          "count": 34323
+        },
+        {
+          "url": "https://www.linkedin.com/company/consultoria-organizacional/",
+          "name": "Consultoría Organizacional",
+          "count": 5647
+        },
+        {
+          "url": "https://www.linkedin.com/company/postobon-s.a./",
+          "name": "POSTOBON S.A.",
+          "count": 376887
+        },
+        {
+          "url": "https://www.linkedin.com/company/rcn-tv/",
+          "name": "RCN TV",
+          "count": 36859
+        },
+        {
+          "url": "https://www.linkedin.com/company/sql-software/",
+          "name": "SQL Software",
+          "count": 2567
+        },
+        {
+          "url": "https://www.linkedin.com/company/softwareguru/",
+          "name": "Software Guru",
+          "count": 7785
+        },
+        {
+          "url": "https://www.linkedin.com/company/mancuso-media-llc/",
+          "name": "Mancuso Media, LLC",
+          "count": 1094
+        },
+        {
+          "url": "https://www.linkedin.com/company/proteccionsa/",
+          "name": "PROTECCIÓN S.A.",
+          "count": 115592
+        },
+        {
+          "url": "https://www.linkedin.com/company/koombea/",
+          "name": "Koombea",
+          "count": 6488
+        },
+        {
+          "url": "https://www.linkedin.com/company/acltecnologia/",
+          "name": "ACL Tecnología",
+          "count": 6553
+        },
+        {
+          "url": "https://www.linkedin.com/company/ministerio-de-tecnolog-as-de-la-informaci-n-y-las-comunicaciones/",
+          "name": "Ministerio de Tecnologías de la Información y las Comunicaciones",
+          "count": 91594
+        },
+        {
+          "url": "https://www.linkedin.com/company/bbva-colombia/",
+          "name": "BBVA en Colombia",
+          "count": 134795
+        },
+        {
+          "url": "https://www.linkedin.com/company/porvenir/",
+          "name": "Porvenir Pensiones y Cesantías",
+          "count": 143264
+        },
+        {
+          "url": "https://www.linkedin.com/company/banco-de-bogota/",
+          "name": "Banco de Bogotá",
+          "count": 188648
+        },
+        {
+          "url": "https://www.linkedin.com/company/icfes/",
+          "name": "Instituto Colombiano para la Evaluación de la Educación (ICFES)",
+          "count": 13316
+        },
+        {
+          "url": "https://www.linkedin.com/company/brahma-footwear/",
+          "name": "Stanton S.A.S.",
+          "count": 1188
+        },
+        {
+          "url": "https://www.linkedin.com/company/banco-finandina/",
+          "name": "Banco Finandina",
+          "count": 23231
+        },
+        {
+          "url": "https://www.linkedin.com/company/sodimac-colombia-homecenter/",
+          "name": "Sodimac Colombia",
+          "count": 133529
+        },
+        {
+          "url": "https://www.linkedin.com/company/grupobancolombia/",
+          "name": "Grupo Bancolombia",
+          "count": 34077
+        },
+        {
+          "url": "https://www.linkedin.com/company/cognox/",
+          "name": "Cognox",
+          "count": 2959
+        },
+        {
+          "url": "https://www.linkedin.com/company/quala-s-a-/",
+          "name": "Quala S.A.",
+          "count": 390795
+        },
+        {
+          "url": "https://www.linkedin.com/company/fware/",
+          "name": "FirmWare - Tecnología Simple",
+          "count": 898
+        },
+        {
+          "url": "https://www.linkedin.com/company/novasoft-sas/",
+          "name": "Novasoft SAS",
+          "count": 1591
+        },
+        {
+          "url": "https://www.linkedin.com/company/ideaware-co/",
+          "name": "Ideaware",
+          "count": 2795
+        },
+        {
+          "url": "https://www.linkedin.com/company/sinnetic/",
+          "name": "SINNETIC",
+          "count": 4233
+        },
+        {
+          "url": "https://www.linkedin.com/company/talos-digital-inc-/",
+          "name": "Talos Digital",
+          "count": 5436
+        },
+        {
+          "url": "https://www.linkedin.com/company/redsis-/",
+          "name": "Redsis - Redes y Sistemas Integrados",
+          "count": 1427
+        },
+        {
+          "url": "https://www.linkedin.com/company/elempleo/",
+          "name": "elempleo",
+          "count": 563793
+        },
+        {
+          "url": "https://www.linkedin.com/company/edteamlat/",
+          "name": "EDteam",
+          "count": 32683
+        },
+        {
+          "url": "https://www.linkedin.com/company/ximple-human-resources/",
+          "name": "Ximple Human Resources",
+          "count": 3032
+        },
+        {
+          "url": "https://www.linkedin.com/company/platzi-inc/",
+          "name": "Platzi",
+          "count": 68465
+        },
+        {
+          "url": "https://www.linkedin.com/company/metro-operaci-n-inmobiliaria/",
+          "name": "METRO Hotels",
+          "count": 620
+        },
+        {
+          "url": "https://www.linkedin.com/company/beitech-sas/",
+          "name": "Beitech SAS",
+          "count": 611
+        },
+        {
+          "url": "https://www.linkedin.com/company/soluntech-sas/",
+          "name": "SOLUNTECH",
+          "count": 711
+        },
+        {
+          "url": "https://www.linkedin.com/company/bavaria-/",
+          "name": "Bavaria - Colombia",
+          "count": 498143
+        },
+        {
+          "url": "https://www.linkedin.com/company/compensar/",
+          "name": "Compensar",
+          "count": 146923
+        },
+        {
+          "url": "https://www.linkedin.com/company/outsourcing-s-a-oficial/",
+          "name": "Outsourcing S.A Oficial",
+          "count": 2686
+        },
+        {
+          "url": "https://www.linkedin.com/company/next-university-inc-/",
+          "name": "Next U, Inc",
+          "count": 7961
+        },
+        {
+          "url": "https://www.linkedin.com/company/esg-industriales-s-a-s-/",
+          "name": "ESG Industriales S.A.S.",
+          "count": 3326
+        },
+        {
+          "url": "https://www.linkedin.com/company/instituto-nacional-de-contadores-p%C3%BAblicos/",
+          "name": "Instituto Nacional de Contadores Públicos",
+          "count": 11075
+        },
+        {
+          "url": "https://www.linkedin.com/company/banco-falabella-colombia/",
+          "name": "Banco Falabella Colombia",
+          "count": 47478
+        },
+        {
+          "url": "https://www.linkedin.com/company/pulzo/",
+          "name": "Pulzo",
+          "count": 10794
+        },
+        {
+          "url": "https://www.linkedin.com/company/aprendeinstitute/",
+          "name": "Aprende Institute",
+          "count": 25995
+        },
+        {
+          "url": "https://www.linkedin.com/company/anka/",
+          "name": "Grupo ANKA",
+          "count": 632
+        },
+        {
+          "url": "https://www.linkedin.com/company/pwc-colombia/",
+          "name": "PwC Colombia",
+          "count": 46128
+        },
+        {
+          "url": "https://www.linkedin.com/company/acer%C3%ADas-paz-del-rio/",
+          "name": "PazdelRio",
+          "count": 20912
+        },
+        {
+          "url": "https://www.linkedin.com/company/nutresa/",
+          "name": "Talento Nutresa",
+          "count": 472538
+        },
+        {
+          "url": "https://www.linkedin.com/company/sutex-s-a-s/",
+          "name": "Sutex S.A.S",
+          "count": 3868
+        },
+        {
+          "url": "https://www.linkedin.com/company/computrabajo/",
+          "name": "CompuTrabajo",
+          "count": 386254
+        },
+        {
+          "url": "https://www.linkedin.com/company/rehimac-s-a/",
+          "name": "REHIMAC S.A",
+          "count": 33
+        },
+        {
+          "url": "https://www.linkedin.com/company/itau-colombia/",
+          "name": "Itaú Colombia",
+          "count": 151349
+        },
+        {
+          "url": "https://www.linkedin.com/company/kpmg_colombia/",
+          "name": "KPMG en Colombia",
+          "count": 57851
+        },
+        {
+          "url": "https://www.linkedin.com/company/mi-group-co/",
+          "name": "MI Group",
+          "count": 266
+        },
+        {
+          "url": "https://www.linkedin.com/company/constructora-habitat-de-los-andes/",
+          "name": "Constructora Hábitat de los Andes",
+          "count": 3424
+        },
+        {
+          "url": "https://www.linkedin.com/company/krypto-outsourcing-contable-y-financiero/",
+          "name": "KRYPTO Outsourcing Contable y Financiero",
+          "count": 116
+        },
+        {
+          "url": "https://www.linkedin.com/company/alphacredit-mexico/",
+          "name": "AlphaCredit",
+          "count": 21803
+        },
+        {
+          "url": "https://www.linkedin.com/company/fiducoldex-s.a./",
+          "name": "Fiducoldex S.A.",
+          "count": 8965
+        },
+        {
+          "url": "https://www.linkedin.com/company/tita-media/",
+          "name": "Tita Media",
+          "count": 2275
+        },
+        {
+          "url": "https://www.linkedin.com/company/plesk/",
+          "name": "Plesk",
+          "count": 10981
+        },
+        {
+          "url": "https://www.linkedin.com/company/biz-latin-hub-group/",
+          "name": "Biz Latin Hub",
+          "count": 10973
+        },
+        {
+          "url": "https://www.linkedin.com/company/logaligroup/",
+          "name": "Logali Group",
+          "count": 3111
+        },
+        {
+          "url": "https://www.linkedin.com/company/revista-dinero/",
+          "name": "Revista Dinero",
+          "count": 296260
+        },
+        {
+          "url": "https://www.linkedin.com/company/smartquick/",
+          "name": "SmartQuick",
+          "count": 635
+        },
+        {
+          "url": "https://www.linkedin.com/company/manpowergroup-colombia/",
+          "name": "ManpowerGroup Colombia",
+          "count": 137387
+        },
+        {
+          "url": "https://www.linkedin.com/company/merqueo/",
+          "name": "Merqueo",
+          "count": 27482
+        },
+        {
+          "url": "https://www.linkedin.com/company/smart-choice-group-s.a.s./",
+          "name": "Smart Choice Group S.A.S.",
+          "count": 980
+        },
+        {
+          "url": "https://www.linkedin.com/company/digital-link-marketing/",
+          "name": "Digital Link Marketing S.L.",
+          "count": 28302
+        },
+        {
+          "url": "https://www.linkedin.com/company/impresistemsas/",
+          "name": "IMPRESISTEM SAS",
+          "count": 4247
+        },
+        {
+          "url": "https://www.linkedin.com/company/100grados/",
+          "name": "100 Grados",
+          "count": 220
+        },
+        {
+          "url": "https://www.linkedin.com/company/lezagsuperbeauty/",
+          "name": "Lezag - Superbeauty",
+          "count": 342
+        },
+        {
+          "url": "https://www.linkedin.com/company/etex-colombia/",
+          "name": "Etex Colombia",
+          "count": 4577
+        },
+        {
+          "url": "https://www.linkedin.com/company/telcos-ingenieria/",
+          "name": "TELCOS Ingeniería",
+          "count": 811
+        },
+        {
+          "url": "https://www.linkedin.com/company/scotiabankcolpatria/",
+          "name": "Scotiabank Colpatria",
+          "count": 86341
+        },
+        {
+          "url": "https://www.linkedin.com/company/protectores-armadillo/",
+          "name": "Protectores Armadillo SAS",
+          "count": 115
+        },
+        {
+          "url": "https://www.linkedin.com/company/praxispharmaceutical/",
+          "name": "Praxis Pharmaceutical",
+          "count": 1183
+        },
+        {
+          "url": "https://www.linkedin.com/company/gce-global-solutions/",
+          "name": "GCE Global Solutions",
+          "count": 129
+        },
+        {
+          "url": "https://www.linkedin.com/company/praxedes-midasoft-group/",
+          "name": "Praxedes Midasoft Group",
+          "count": 115
+        },
+        {
+          "url": "https://www.linkedin.com/company/turismolab/",
+          "name": "Turismo Lab",
+          "count": 1402
+        },
+        {
+          "url": "https://www.linkedin.com/company/corporaci%C3%B3n-universitaria-republicana/",
+          "name": "Corporación Universitaria Republicana",
+          "count": 3354
+        },
+        {
+          "url": "https://www.linkedin.com/company/servicio-nacional-de-aprendizaje-sena-/",
+          "name": "Servicio Nacional de Aprendizaje (SENA)",
+          "count": 481882
+        },
+        {
+          "url": "https://www.linkedin.com/company/credibanco/",
+          "name": "CredibanCo",
+          "count": 26621
+        },
+        {
+          "url": "https://www.linkedin.com/company/campos-saab/",
+          "name": "Campos Saab",
+          "count": 335
+        },
+        {
+          "url": "https://www.linkedin.com/company/roamcapital/",
+          "name": "ROAM Capital",
+          "count": 618
+        },
+        {
+          "url": "https://www.linkedin.com/company/starmeup/",
+          "name": "StarMeUp",
+          "count": 7485
+        },
+        {
+          "url": "https://www.linkedin.com/company/joyer%C3%ADa-glauser---tsq-s.a./",
+          "name": "Joyería Glauser - TSQ S.A.",
+          "count": 185
+        },
+        {
+          "url": "https://www.linkedin.com/company/renderout/",
+          "name": "Renderout!",
+          "count": 1943
+        },
+        {
+          "url": "https://www.linkedin.com/company/ciemco/",
+          "name": "CIEMCO",
+          "count": 72
+        },
+        {
+          "url": "https://www.linkedin.com/company/nutrabiotics-sas/",
+          "name": "NUTRABIOTICS S.A.S",
+          "count": 544
+        },
+        {
+          "url": "https://www.linkedin.com/company/bydrec/",
+          "name": "Bydrec, Inc.",
+          "count": 2258
+        },
+        {
+          "url": "https://www.linkedin.com/company/libelstudios/",
+          "name": "LIBEL ACADEMY",
+          "count": 316
+        },
+        {
+          "url": "https://www.linkedin.com/company/casagres/",
+          "name": "Casa Gres",
+          "count": 124
+        },
+        {
+          "url": "https://www.linkedin.com/company/masivian/",
+          "name": "Masiv",
+          "count": 25496
+        },
+        {
+          "url": "https://www.linkedin.com/company/marketing-tools-agency/",
+          "name": "Marketing Tools Agency",
+          "count": 526
+        },
+        {
+          "url": "https://www.linkedin.com/company/banco-caja-social/",
+          "name": "Banco Caja Social",
+          "count": 55523
+        },
+        {
+          "url": "https://www.linkedin.com/company/chepeypepe/",
+          "name": "Chepe & Pepe",
+          "count": 254
+        },
+        {
+          "url": "https://www.linkedin.com/company/arkdia/",
+          "name": "arKdia",
+          "count": 150
+        },
+        {
+          "url": "https://www.linkedin.com/company/the-frenchie-co/",
+          "name": "The Frenchie Co",
+          "count": 464
+        },
+        {
+          "url": "https://www.linkedin.com/company/bioecologica/",
+          "name": "Bioecologica",
+          "count": 78
+        },
+        {
+          "url": "https://www.linkedin.com/company/activalonatural/",
+          "name": "Activa lo Natural",
+          "count": 74
+        },
+        {
+          "url": "https://www.linkedin.com/company/appspring-technologies/",
+          "name": "Appspring Technologies",
+          "count": 839
+        },
+        {
+          "url": "https://www.linkedin.com/company/gestor-sas/",
+          "name": "Gestor SAS",
+          "count": 934
+        },
+        {
+          "url": "https://www.linkedin.com/company/ravencloudscanner/",
+          "name": "Raven",
+          "count": 1219
+        },
+        {
+          "url": "https://www.linkedin.com/company/summar-productividad/",
+          "name": "Summar Productividad",
+          "count": 1280
+        },
+        {
+          "url": "https://www.linkedin.com/company/russellbedfordgct/",
+          "name": "Russell Bedford GCT",
+          "count": 1589
+        },
+        {
+          "url": "https://www.linkedin.com/company/dcm-ingenieros-consultores/",
+          "name": "DCM INGENIEROS CONSULTORES",
+          "count": 16
+        },
+        {
+          "url": "https://www.linkedin.com/company/vemesco/",
+          "name": "Vemesco",
+          "count": 141
+        },
+        {
+          "url": "https://www.linkedin.com/company/clinica-retornar/",
+          "name": "Clinica Retornar",
+          "count": 178
+        },
+        {
+          "url": "https://www.linkedin.com/company/centurebv/",
+          "name": "Centure",
+          "count": 32
+        },
+        {
+          "url": "https://www.linkedin.com/company/funeraria-san-juan-bautista/",
+          "name": "Funeraria San Juan Bautista",
+          "count": 51
+        },
+        {
+          "url": "https://www.linkedin.com/company/grupolyown/",
+          "name": "Grupo Lyown",
+          "count": 474
+        }
+      ],
+      "schools": [
+        {
+          "url": "https://www.linkedin.com/school/11601/?legacySchoolId=11601",
+          "name": "Universidad Externado de Colombia",
+          "count": 114777
+        },
+        {
+          "url": "https://www.linkedin.com/school/542170/?legacySchoolId=542170",
+          "name": "Turismo Lab",
+          "count": 1402
+        },
+        {
+          "url": "https://www.linkedin.com/school/11509/?legacySchoolId=11509",
+          "name": "Universidad EAN",
+          "count": 65974
+        },
+        {
+          "url": "https://www.linkedin.com/school/196010/?legacySchoolId=196010",
+          "name": "Servicio Nacional de Aprendizaje (SENA)",
+          "count": 481883
+        },
+        {
+          "url": "https://www.linkedin.com/school/224969/?legacySchoolId=224969",
+          "name": "Platzi",
+          "count": 68465
+        },
+        {
+          "url": "https://www.linkedin.com/school/11507/?legacySchoolId=11507",
+          "name": "Corporación Universitaria Republicana",
+          "count": 3354
+        },
+        {
+          "url": "https://www.linkedin.com/school/11581/?legacySchoolId=11581",
+          "name": "Universidad de los Andes - Colombia",
+          "count": 298648
+        }
+      ]
+    },
+    "recommandations": {
+      "receivedRecommandations": [],
+      "givenRecommandations": []
+    },
+    "licences": [
+      {
+        "name": "Curso de Asincronismo con JavaScript",
+        "link": "https://www.linkedin.com/company/platzi-inc/",
+        "credentialUrl": "https://platzi.com/p/jcamilofarfan/curso/1789-asincronismo-js/diploma/detalle/"
+      },
+      {
+        "name": "Curso de ECMAScript 6",
+        "link": "https://www.linkedin.com/company/platzi-inc/",
+        "credentialUrl": "https://platzi.com/p/jcamilofarfan/curso/1815-ecmascript-6/diploma/detalle/"
+      },
+      {
+        "name": "Fundamentos de JavaScript",
+        "link": "https://www.linkedin.com/company/platzi-inc/",
+        "credentialUrl": "https://platzi.com/p/jcamilofarfan/curso/1339-fundamentos-javascript/diploma/detalle/"
+      },
+      {
+        "name": "Curso Básico de JavaScript",
+        "link": "https://www.linkedin.com/company/platzi-inc/",
+        "credentialUrl": "https://platzi.com/p/jcamilofarfan/curso/1814-basico-javascript/diploma/detalle/"
+      },
+      {
+        "name": "Curso de Frontend Developer",
+        "link": "https://www.linkedin.com/company/platzi-inc/",
+        "credentialUrl": "https://platzi.com/p/jcamilofarfan/curso/1640-frontend-developer/diploma/detalle/"
+      },
+      {
+        "name": "Curso de Prework: Buenas Prácticas y Entorno de Desarrollo en macOS",
+        "link": "https://www.linkedin.com/company/platzi-inc/",
+        "credentialUrl": "https://platzi.com/p/jcamilofarfan/curso/1650-prework/diploma/detalle/"
+      },
+      {
+        "name": "Curso de Prework: Configuración de Entorno de Desarrollo en Windows",
+        "link": "https://www.linkedin.com/company/platzi-inc/",
+        "credentialUrl": "https://platzi.com/p/jcamilofarfan/curso/2042-prework-windows/diploma/detalle/"
+      },
+      {
+        "name": "Curso Profesional de Git y GitHub",
+        "link": "https://www.linkedin.com/company/platzi-inc/",
+        "credentialUrl": "https://platzi.com/@jcamilofarfan/curso/1557-git-github/diploma/detalle/"
+      },
+      {
+        "name": "Curso de Marca Personal",
+        "link": "https://www.linkedin.com/company/platzi-inc/",
+        "credentialUrl": "https://platzi.com/@jcamilofarfan/curso/1220-marca-personal/diploma/detalle/"
+      },
+      {
+        "name": "Curso de Finanzas para Startups",
+        "link": "https://www.linkedin.com/company/platzi-inc/",
+        "credentialUrl": "https://platzi.com/@camilofarfan/curso/1325-course/diploma/detalle/"
+      },
+      {
+        "name": "Curso de Programación Básica",
+        "link": "https://www.linkedin.com/company/platzi-inc/",
+        "credentialUrl": "https://platzi.com/@jcamilofarfan/curso/1050-programacion-basica/diploma/detalle/"
+      },
+      {
+        "name": "Taller de creación de Startups 2019",
+        "link": "https://www.linkedin.com/company/platzi-inc/",
+        "credentialUrl": "https://platzi.com/@camilofarfan/curso/49-taller-startups-2018/diploma/detalle/"
+      },
+      {
+        "name": "Administración Estratégica",
+        "link": "https://www.linkedin.com/company/next-university-inc-/",
+        "credentialUrl": "https://www.credential.net/d88e2649-b939-4852-abff-84651ef27169"
+      },
+      {
+        "name": "Desarrollo Web",
+        "link": "https://www.linkedin.com/company/next-university-inc-/",
+        "credentialUrl": "https://www.credential.net/68f63731-cd86-4fac-9952-9d175551a054"
+      },
+      {
+        "name": "Fundamentos de Administración",
+        "link": "https://www.linkedin.com/company/next-university-inc-/",
+        "credentialUrl": "https://www.credential.net/urvx8skd"
+      },
+      {
+        "name": "Liderazgo Empresarial",
+        "link": "https://www.linkedin.com/company/next-university-inc-/",
+        "credentialUrl": "https://www.credential.net/sfjn0tpe"
+      },
+      {
+        "name": "Soporte y Mantenimiento Técnico",
+        "link": "https://www.linkedin.com/company/next-university-inc-/",
+        "credentialUrl": "https://www.credential.net/q8xb33xc"
+      }
+    ],
+    "dropcontact": {
+      "company": "Grupo Logístico Empresarial",
+      "full_name": "Farfan Juanias Juan Camilo",
+      "last_name": "Farfan Juanias Juan Camilo",
+      "phone": "+57 310 3345396",
+      "website": "www.grupologisticoempresarial.com"
+    },
+    "query": "https://www.linkedin.com/in/jcamilofarfan/",
+    "timestamp": "2021-02-16T23:04:52.135Z"
+  }
 ]
