@@ -5,6 +5,20 @@ font-family: 'Roboto Mono', monospace;
 font-family: 'Roboto Slab', serif;
 */
 
+/*
+  --color1: rgba(69, 142, 191, 1);
+  --color2: rgba(46, 95, 128, 1);
+  --color3: rgba(92, 190, 255, 1);
+  --color4: rgba(23, 47, 64, 1);
+  --color5: rgba(83, 171, 230, 1);
+*/
+:root{
+  --header-color: rgba(69, 142, 191, 1);
+  --section-color: rgba(23, 47, 64, 0.3);
+  --footer-color: rgba(46, 95, 128, 1);
+  --icon-hover: rgba(23, 47, 64, 1); ;
+
+}
 body {
   font-family: "Roboto Mono", monospace;
   margin: 0;
@@ -39,7 +53,7 @@ header .header-icons-container {
   width: 100%;
   height: 50px;
   display: grid;
-  background-color: #47cfac;
+  background-color: var(--header-color);
 }
 header .header-icons-container .icons {
   width: 300px;
@@ -75,7 +89,7 @@ nav .profile-link {
 }
 nav .profile-link a {
   color: black;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid var(--footer-color);
 }
 
 .home-main {
@@ -99,16 +113,13 @@ nav .profile-link a {
   font-size: 30px;
   font-weight: 700;
   letter-spacing: 10px;
-  /* color: black; */
   text-align: center;
   color: white;
-  /* filter: drop-shadow(5px 5px 5px); */
-  /* box-shadow: 10px 5px #999; */
 }
 .home-main-button {
   width: 110px;
   height: 50px;
-  background: #48cfad;
+  background:var(--header-color);
   display: grid;
   align-items: center;
 }
@@ -121,7 +132,7 @@ nav .profile-link a {
   display: grid;
 }
 .blogs-news-container{
-  background-color: #e6e9ed;
+  background-color: var(--section-color);
   padding: 0 50px 40px;
 }
 .blogs-main-new{
@@ -145,12 +156,11 @@ nav .profile-link a {
   padding: 0 50px 40px;
 }
 .blogs-posts-container h3{
-  border-bottom: 1px solid #cdd2da;
   padding-bottom: 20px;
   text-align: center;
 }
 .blogs-button{
-  border: 1px solid #47cfac;
+  border: 1px solid var(--header-color);
   padding: 10px 15px;
   font-size: 12px;
 }
@@ -170,8 +180,8 @@ nav .profile-link a {
 footer{
   width: 100%;
   height: 80px;
-  background-color: #22272d;
-  border-top: 35px solid #47cfac;
+  background-color: var(--footer-color);
+  border-top: 35px solid var(--header-color);
   text-align: center;
 }
 footer p{
@@ -188,7 +198,7 @@ footer p{
   padding: 0 50px 40px;
 }
 .blogpost-main-container h3{
-  border-bottom: 1px solid #cdd2da;
+  border-bottom: 1px solid var(--footer-color);
   padding-bottom: 20px;
 }
 .blogpost-main-container article h1{
@@ -198,7 +208,7 @@ footer p{
 .contact-main-container{
   width: 100%;
   min-height: 250px;
-  background-color: #e6e9ed;
+  background-color: var(--section-color);
   text-align: center;
   padding-bottom: 50px;
 }
@@ -208,7 +218,7 @@ footer p{
   height: 100%;
 }
 .contact-main-container div a{
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid var(--footer-color);
   padding-bottom: 5px;
 }
 
@@ -223,7 +233,7 @@ footer p{
 
 .profile-main-container{
   padding: 70px 40px;
-  background-color: #e6e9ed;
+  background-color: var(--section-color);
   margin-bottom: 50px;
 }
 .profile-main-container img{
@@ -238,7 +248,7 @@ footer p{
   padding: 0 50px 40px;
 }
 .profile-main-proyects h3{
-  border-bottom: 1px solid #cdd2da;
+  border-bottom: 1px solid var(--footer-color);
   padding-bottom: 35px;
   text-align: center;
 }
@@ -247,7 +257,7 @@ footer p{
   padding: 0 50px 40px;
 }
 .profile-main-jobs h3{
-  border-bottom: 1px solid #cdd2da;
+  border-bottom: 1px solid var(--footer-color);
   padding-bottom: 35px;
   text-align: center;
 }
@@ -267,4 +277,16 @@ footer p{
 
 .jobs-container{
   padding: 0 5px;
+}
+
+/* hover */
+
+.blogs-button:hover{
+  color: white;
+  background-color: var(--header-color);
+  border: 1px solid var(--header-color);
+}
+
+header .icons span:hover {
+  color: var(--icon-hover);
 }
