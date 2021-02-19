@@ -23,7 +23,7 @@ a {
   right: 0;
 }
 .grid-container{
-  max-width: 980px;
+  max-width: 1080px;
   margin: auto;
 }
 
@@ -232,6 +232,7 @@ footer p{
 }
 .profile-main-container .profile-container{
   display: flex;
+  align-items: center;
 }
 .profile-main-proyects{
   padding: 0 50px 40px;
@@ -242,11 +243,28 @@ footer p{
   text-align: center;
 }
 
+.profile-main-jobs{
+  padding: 0 50px 40px;
+}
+.profile-main-jobs h3{
+  border-bottom: 1px solid #cdd2da;
+  padding-bottom: 35px;
+  text-align: center;
+}
+
 .proyects-main-container{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
+.jobs-main-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
 
 .proyects-container{
+  padding: 0 5px;
+}
+
+.jobs-container{
   padding: 0 5px;
 }

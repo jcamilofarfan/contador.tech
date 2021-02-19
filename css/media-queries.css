@@ -18,12 +18,20 @@
         grid-template-rows: 2fr;
     }
     .profile-main-container .profile-container {
-        display: block;
+        display: grid;
+        grid-template-columns: 1fr;
+        justify-items: center;
     }
 }
 
 @media (max-width: 600px) {
     .blogs-posts-container .post-container {
         max-width: 95%;
+    }
+    .proyects-main-container {
+        grid-template-columns: 1fr;
+    }
+    .jobs-main-container {
+        grid-template-columns: 1fr;
     }
 }
