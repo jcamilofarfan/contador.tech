@@ -244,6 +244,16 @@ footer p{
   display: flex;
   align-items: center;
 }
+.profile-main-courses{
+  padding: 0 50px 40px;
+}
+.profile-main-courses h3{
+  border-bottom: 1px solid var(--footer-color);
+  padding-bottom: 35px;
+  text-align: center;
+}
+
+
 .profile-main-proyects{
   padding: 0 50px 40px;
 }
@@ -252,6 +262,8 @@ footer p{
   padding-bottom: 35px;
   text-align: center;
 }
+
+
 
 .profile-main-jobs{
   padding: 0 50px 40px;
@@ -262,19 +274,27 @@ footer p{
   text-align: center;
 }
 
+.courses-main-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
 .proyects-main-container{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
+
 .jobs-main-container{
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
 
+.courses-container{
+  padding: 0 5px;
+}
 .proyects-container{
   padding: 0 5px;
 }
-
 .jobs-container{
   padding: 0 5px;
 }

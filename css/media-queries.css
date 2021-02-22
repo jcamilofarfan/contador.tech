@@ -17,6 +17,12 @@
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 2fr;
     }
+
+    .courses-main-container {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 2fr;
+    }
+
     .profile-main-container .profile-container {
         display: grid;
         grid-template-columns: 1fr;
@@ -28,9 +34,14 @@
     .blogs-posts-container .post-container {
         max-width: 95%;
     }
+    .courses-main-container {
+        grid-template-columns: 1fr;
+    }
+
     .proyects-main-container {
         grid-template-columns: 1fr;
     }
+
     .jobs-main-container {
         grid-template-columns: 1fr;
     }
