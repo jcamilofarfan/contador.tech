@@ -1,5 +1,5 @@
 // https://jcamilofarfan.blogspot.com/feeds/posts/default?alt=rss
-let xmlhttpUrl = "./blog.xml";
+let xmlhttpUrl = "./assets/data/blog.xml";
 let xmlhttp = new XMLHttpRequest();
 xmlhttp.open("GET", xmlhttpUrl);
 xmlhttp.send();

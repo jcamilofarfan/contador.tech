@@ -2,7 +2,7 @@ const header = document.querySelector("section.profile-main-container div.resume
 const section = document.querySelector("section div.proyects-main-container");
 const sectionTwo = document.querySelector("section div.jobs-main-container");
 
-let requestURL = "./linkedin.json";
+let requestURL = "./assets/data/linkedin.json";
 let request = new XMLHttpRequest();
 // let requestURL = 'https://cache1.phantombooster.com/pzuhC3LNq4M/Q2PwRzWTBaSOHZqrIAM4fA/result.json';
 
@@ -21,7 +21,7 @@ request.onload = function () {
 function populateHeader(jsonObj) {
   const general = jsonObj[0]["general"];
   const myH1 = document.createElement("h2");
-  myH1.textContent = "Hola, mi nombre es " + general.fullName;
+  myH1.textContent = "Hola, Mi nombre es " + general.fullName;
   header.appendChild(myH1);
 
   const myresume = document.createElement("p");
